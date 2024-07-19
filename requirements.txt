@@ -1,0 +1,6 @@
+
+fastapi
+xlsxwriter
+uvicorn
+pydantic
+requests
